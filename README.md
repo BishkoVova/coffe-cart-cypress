@@ -38,8 +38,8 @@ This will run all the tests without displaying the interface.
 
 There are two main test files in the repository:
 
-- **test1.spec.js** – A basic test file for checking core functionality.
-- **checkout.spec.js** – A test file containing scenarios for completing a task and additional tests.
+- **pages.cy.js** – A basic test file for checking core functionality.
+- **checkout.cy.js** – A test file containing scenarios for completing a task and additional tests.
 
 ### 2. Custom Commands
 
